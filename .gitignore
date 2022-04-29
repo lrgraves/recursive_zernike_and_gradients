@@ -1,0 +1,3 @@
+#Rust Dependencies and Build
+rust/target/*
+rust/Cargo.lock
