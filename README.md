@@ -22,3 +22,8 @@ Code
 Note, for both the Rust and Python code, the ‘order’ or ‘index’ refers to the Ansi standard indexing, described here.
 
 Both codes below are written under the MIT license, feel free to use however you would like, you do not need to reference me/this post for where you got the code (although I do hope you include the reference to the original paper!).
+
+Usage
+To use the Python code, simply navigate to the python directory, and run the 'recursive_zernike_generator.py'. The end of the python code has an example case built in that shows how to define the required inputs to the generator function, as well as how to call the function so it can be utilized in your own project.
+
+To use the Rust code, navigate to the rust directory, and run 'cargo build' and then 'cargo run'. The code is provided in rust/src/main, where main() provides an example case for how to call and use the generator functions, and also a printout of the results. Calling cargo run will run the default test case and print out the results to your terminal. 
