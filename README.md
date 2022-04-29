@@ -1,4 +1,4 @@
-# recursize_zernike_gradient
+# recursive_zernike_gradient
 Recursive Zernike Gradient Generation
 Efficient and robust recurrence relations for the Zernike circle polynomials and their derivatives in Cartesian coordinates
 
